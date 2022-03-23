@@ -1,1 +1,2 @@
 This is to resolve conflict
+This is a line added in dev branch
